@@ -247,7 +247,7 @@ declare interface CategoryProps {
 }
 
 declare interface DoughnutChartProps {
-  accounts: Account[];
+  accounts: any;
 }
 
 declare interface PaymentTransferFormProps {
